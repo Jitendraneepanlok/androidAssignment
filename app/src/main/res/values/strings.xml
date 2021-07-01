@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReadAllContact</string>
+    <string name="add_new_contacts">Add New Contacts</string>
+    <string name="name">Enter your Name</string>
+    <string name="number">Enter your Phone No.</string>
+    <string name="save">Save</string>
+</resources>
